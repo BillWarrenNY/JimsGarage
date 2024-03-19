@@ -33,7 +33,7 @@ workerHostname1=dockerSwarm-04
 workerHostname2=dockerSwarm-05
 
 # User of remote machines
-user=ubuntu
+user=ansible
 
 # Interface used on remotes
 interface=eth0
